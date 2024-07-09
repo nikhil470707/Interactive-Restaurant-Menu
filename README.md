@@ -15,7 +15,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/nikhil470707/Interactive-Restaurant-Menu
+   git clone https://github.com/nikhil470707/Interactive-Restaurant-Menu.git
    ```
 2. Navigate to the project directory:
    ```
